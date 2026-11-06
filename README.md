@@ -7,7 +7,6 @@
 Потрібен Node.js 22.12+.
 
 ~~~powershell
-cd "G:\ч2\CoursePlatform"
 npm install
 npm run dev
 ~~~
